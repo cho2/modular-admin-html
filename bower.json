@@ -20,7 +20,8 @@
     "jquery-touchswipe": "^1.6.18",
     "jquery.browser": "^0.1.0",
     "popper.js": "^1.12.9",
-    "bootstrap": "v4.0.0"
+    "bootstrap": "v4.0.0",
+    "chart.js": "2.7.1"
   },
   "overrides": {
     "bootstrap": {
